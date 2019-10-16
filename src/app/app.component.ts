@@ -7,4 +7,6 @@ import { EmployeeComponent } from './employee/employee.component';
 })
 export class AppComponent {
   title = 'pragim17';
+
+  parenttext: string;
 }

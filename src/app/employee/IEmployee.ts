@@ -1,7 +1,7 @@
 export interface IEmployee {
-    code: string;
+    empId: number;
     name: string;
+    dateofbirth: string;
+    salary: number;
     gender: string;
-    annualSalary: number;
-    dateOfBirth: string;
 }
